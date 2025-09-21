@@ -1,0 +1,2 @@
+# Streamlit secrets (never commit tokens)
+.streamlit/secrets.toml

@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Streamlit secrets (never commit tokens)
+.streamlit/secrets.toml
